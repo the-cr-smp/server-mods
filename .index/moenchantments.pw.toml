@@ -1,0 +1,14 @@
+name = "MoEnchantments"
+filename = "MoEnchantments-2.2.7+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/E3XpAeUu/versions/xYvrqHjq/MoEnchantments-2.2.7%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "fb547593f1d360008922efba26492564d023ec568aeec0b6d0ffa642fa61ab12a2609303b1083e1da83525de18434c8c929f3a63cbe683e57a1dfe76aeb7189c"
+
+[update]
+[update.modrinth]
+mod-id = "E3XpAeUu"
+version = "xYvrqHjq"

@@ -1,0 +1,14 @@
+name = "[Fabric] Progressive Bosses"
+filename = "ProgressiveBosses-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e325bcc5826ddb20e6586a6337f54db2747314a6"
+
+[update]
+[update.curseforge]
+file-id = 4017411
+project-id = 620248

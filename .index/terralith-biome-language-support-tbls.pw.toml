@@ -1,0 +1,14 @@
+name = "Terralith Biome Language Support (TBLS)"
+filename = "tbls-0.0.1_1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "25cb42d13b027e2aaaffdd90e75bb19907325ea1"
+
+[update]
+[update.curseforge]
+file-id = 4091470
+project-id = 704199

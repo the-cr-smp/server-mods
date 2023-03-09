@@ -1,0 +1,14 @@
+name = "FoxGlow"
+filename = "FoxGlow-1.5.0+fabric1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "850a2a6f9271377a78c04a86aa2fb02f4610fc5c"
+
+[update]
+[update.curseforge]
+file-id = 4035510
+project-id = 577278

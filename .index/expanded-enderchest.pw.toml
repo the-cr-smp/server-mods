@@ -1,0 +1,14 @@
+name = "Expanded Enderchest"
+filename = "expanded-enderchest-fabric-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Gx7FGKAH/versions/kmuRgscL/expanded-enderchest-fabric-1.0.0%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "607fdba77479c622b7c1466402c0449ec32d3b55ecc3d11f391838620372de78514114e4fd6b219bb8caadf1048080eaff221346a9a603603a9d33f2f380e0a3"
+
+[update]
+[update.modrinth]
+mod-id = "Gx7FGKAH"
+version = "kmuRgscL"
